@@ -17,3 +17,31 @@ PyTorch code for **MRI-to-CT image translation** using a two-stage latent genera
 ![Sample MRI-to-CT translation](results/samples/x0_0.png)
 
 
+
+## References
+
+- Rombach, R., Blattmann, A., Lorenz, D., Esser, P., & Ommer, B.  
+  **High-Resolution Image Synthesis with Latent Diffusion Models.** CVPR, 2022.  
+  https://github.com/CompVis/latent-diffusion
+
+- Märtens, K. et al.  
+  **Shared-Private Multimodal VAE.**  
+  https://github.com/kasparmartens/shared-private-multimodalVAE
+
+- Zuo, Z., Zhao, L., Wang, Z., Xing, W., Chen, H., Lu, D., et al.  
+  **Multimodal Image-to-Image Translation via Mutual Information Estimation and Maximization.**  
+  arXiv:2008.03529, 2021.
+
+- **Mutual Information Guided Diffusion for Zero-Shot Cross-Modality Medical Image Translation.**
+
+- Chen, X., Duan, Y., Houthooft, R., Schulman, J., Sutskever, I., & Abbeel, P.  
+  **InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.**  
+  NeurIPS, 2016.
+
+- Wang, Y., Schiff, Y., Gokaslan, A., Pan, W., Wang, F., De Sa, C., & Kuleshov, V.  
+  **InfoDiffusion: Representation Learning Using Information Maximizing Diffusion Models.**  
+  ICML, 2023.
+
+- ExplainingAI.  
+  **Stable Diffusion from Scratch in PyTorch.**  
+  https://github.com/explainingai-code/StableDiffusion-PyTorch
